@@ -1,130 +1,156 @@
 {
-    "general": {
-        "name": "Name Surname",
-        "headline": "Short headline about yourself",
-        "about": [
-            "Hey there! 👋",
-            "This should be a first short paragraph about yourself. Tell us something about yourself, your education or your career.",
-            "And why not adding a second paragraph? Then you can tell us more about your hobbies and your life. Some people will read it and be happy to get to know you a little better."
-        ],
-        "socials": {
-            "email": "example@mail.com",
-            "linkedin": "https://www.linkedin.com/",
-            "github": "https://github.com/"
-        }
+  "general": {
+    "name": "Руслан Шарипов",
+    "headline": "Web-разработчик",
+    "about": [
+      "Обо мне",
+      "Обладаю хорошим опытом в разработке веб-приложений. Я работал как в команде так и самостоятельно над различными проектами от идеи до реализации. Я постоянно учусь новому, слежу за трендами в IT и применяю лучшие практики в своей работе. Моя специализация включает фронтенд и бэкенд разработку, работу с современными фреймворками и инструментами, а также решение сложных задач. Считаю, что хороший код, должен быть не только функциональным, но и понятным другим разработчикам. Знаю HTML, CSS, JS, NextJS (React), PHP, MySQL, NodeJS, MaterialUI, Shadcn и др. По характеру любознательный, общительный, инициативный, ответственный, умею легко находить общий язык с людьми."
+    ],
+    "socials": {
+      "email": "sharipov.r@mail.ru",
+      "linkedin": "https://t.me/r9u9s9",
+      "github": "https://github.com/RuslanSharipov63"
+    }
+  },
+  "experiences": [
+    {
+      "title": "Frontend разработчик",
+      "company": "GDE.360 (стартап)",
+      "href": "",
+      "startDate": "04/2023",
+      "endDate": "по настоящее время",
+      "description": "Разработка интерфейсов, codereview",
+      "logo": "/logos/gde.png",
+      "skills": ["JavaScript", "NextJS", "Shadcn/ui"]
+    }
+  ],
+  "education": [
+    {
+      "subject": "JavaScript 2.0",
+      "university": "online education platform itgid.info",
+      "href": "https://www.itgid.info",
+      "startDate": "15.02.2021",
+      "endDate": "05.10.2021",
+      "certificate": "2zgr6uz258"
     },
-    "experiences": [
-        {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "10/2023",
-            "endDate": "CURRENT",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1", "Skill 2", "Skill 3"]
-        },
-        {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "01/2023",
-            "endDate": "09/2023",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1", "Skill 2"]
-        },
-        {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "01/2022",
-            "endDate": "12/2022",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1"]
-        },
-        {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "01/2021",
-            "endDate": "12/2021",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1", "Skill 2", "Skill 3"]
-        }
-    ],
-    "education": [
-        {
-            "subject": "University Subject",
-            "degree": "Master of Science",
-            "university": "University Name", 
-            "href": "",
-            "startDate": "2022", 
-            "endDate": "NOW", 
-            "description": "Short description of your degree."
-        },
-        {
-            "subject": "University Subject",
-            "degree": "Bachelor of Science",
-            "university": "University Name", 
-            "href": "",
-            "startDate": "2017", 
-            "endDate": "2020", 
-            "description": "Short description of your degree."
-        }
-    ],
-    "volunteering": [
-        {
-            "position": "Position Name",
-            "event": "Event Name",
-            "organisation": "Organisation Name",
-            "href": "",
-            "startDate": "2022",
-            "endDate": "NOW",
-            "description": "Short description of your role at the event."
-        },
-        {
-            "position": "Position Name",
-            "event": "Event Name",
-            "organisation": "Organisation Name",
-            "href": "",
-            "startDate": "2022",
-            "endDate": "NOW",
-            "description": "Short description of your role at the event."
-        },
-        {
-            "position": "Position Name",
-            "event": "Event Name",
-            "organisation": "Organisation Name",
-            "href": "",
-            "startDate": "2022",
-            "endDate": "NOW",
-            "description": "Short description of your role at the event."
-        }
-    ],
-    "projects": [
-        {
-            "name": "two-column-portfolio",
-            "framework": "next.js",
-            "description": "A simple two-column portfolio template that is easy and quick to customize for your own purposes. Mobile friendly.",
-            "href": "https://github.com/karlgrossmann/two-column-portfolio",
-            "stars": "0"
-        },
-       {
-            "name": "example-project",
-            "framework": "javascript",
-            "description": "Short description of your project.",
-            "href": "",
-            "stars": "2,712"
-       },
-       {
-        "name": "example-project-2",
-        "framework": "flutter",
-        "description": "Short description of your project.",
-        "href": "",
-        "stars": "1,999"
-        } 
-    ]
+    {
+      "subject": "PHP Stage 2",
+      "university": "online education platform itgid.info",
+      "href": "https://www.itgid.info",
+      "startDate": "19.03.2021",
+      "endDate": "07.10.2022",
+      "certificate": "t184thhtffg7"
+    },
+    {
+      "subject": "React.JS",
+      "university": "online education platform itgid.info",
+      "href": "https://www.itgid.info",
+      "startDate": "19.03.2021",
+      "endDate": "07.10.2022",
+      "certificate": "gzxhn5xw38kg"
+    }
+  ],
+  "volunteering": [
+    {
+      "position": "Position Name",
+      "event": "Event Name",
+      "organisation": "Organisation Name",
+      "href": "",
+      "startDate": "2022",
+      "endDate": "NOW",
+      "description": "Short description of your role at the event."
+    },
+    {
+      "position": "Position Name",
+      "event": "Event Name",
+      "organisation": "Organisation Name",
+      "href": "",
+      "startDate": "2022",
+      "endDate": "NOW",
+      "description": "Short description of your role at the event."
+    },
+    {
+      "position": "Position Name",
+      "event": "Event Name",
+      "organisation": "Organisation Name",
+      "href": "",
+      "startDate": "2022",
+      "endDate": "NOW",
+      "description": "Short description of your role at the event."
+    }
+  ],
+  "projects": [
+    {
+      "name": "tehgaz.ru",
+      "framework": "HTMl, CSS, JS, PHP",
+      "description": "Сайт компании, продающей технические газы. Реализованы: адаптивная верстка, слайдер, обратная связь",
+      "href": "https://github.com/RuslanSharipov63/tehgaz",
+      "hrefprod": "https://tehgaz63.ru/",
+      "stars": "0"
+    },
+    {
+      "name": "tehnogaz63.ru",
+      "framework": "HTMl, CSS, JS, PHP",
+      "description": "Сайт компании, продающей технические газы. Реализованы: адаптивная верстка, слайдер, обратная связь",
+      "href": "https://github.com/RuslanSharipov63",
+      "hrefprod": "https://tehnogaz63.ru/",
+      "stars": "2,712"
+    },
+    {
+      "name": "tatmagazine.ru",
+      "framework": "HTMl, CSS, JS, PHP",
+      "description": "Сайт национального журнала. Реализованы: адаптивная верстка, слайдер, обратная связь, загрузка PDF-файлов, вырезание первой страницы и конвертация в изображение формата WEBP (использована библиотека ImageMagick), поиск по PDF-файлам, скачивание файлов.",
+      "href": "https://github.com/RuslanSharipov63/tatmagazine",
+      "hrefprod": "https://tatmagazine.ru/",
+      "stars": "1,999"
+    },
+    {
+      "name": "Лови момент",
+      "framework": "NextJS, Redux Toolkit, PHP, MySQL",
+      "description": "Фотосток. Реализованы: адаптивная верстка, загрузка файлов, регистрация, аутентификация, редактиврование, удаление личного кабинета. Загрузка, удаление и скачивание фото. Поиск",
+      "href": "https://github.com/RuslanSharipov63/lv",
+      "hrefprod": "https://lv-six.vercel.app/",
+      "stars": "1,999"
+    },
+    {
+      "name": "Поиск фильмов",
+      "framework": "React",
+      "description": "Вывод фильмов по поисковому запросу. Реализованы: адаптивная верстка, поиск, фильтрация",
+      "href": "https://ruslansharipov63.github.io/react-movies/",
+      "hrefprod": "https://github.com/RuslanSharipov63/react-movies",
+      "stars": "1,999"
+    },
+    {
+      "name": "Корзина",
+      "framework": "React",
+      "description": "Корзина интернет-магазина. Реализованы: адаптивная верстка, добавление, удаление товаров, подсчет общей стоимости",
+      "href": "https://github.com/RuslanSharipov63/react-shop",
+      "hrefprod": "https://ruslansharipov63.github.io/react-shop/",
+      "stars": "1,999"
+    },
+    {
+      "name": "Панель резюме",
+      "framework": "React, Redux",
+      "description": "Панель резюме. Реализованы: адаптивная верстка, фильтрация по вакансиям",
+      "href": "https://github.com/RuslanSharipov63/dashboard",
+      "hrefprod": "https://dashboard-tan-psi.vercel.app/",
+      "stars": "1,999"
+    },
+    {
+      "name": "Страны",
+      "framework": "React, Redux",
+      "description": "Проект 'Страны'. Реализованы: адаптивная верстка, фильтрация по регионам, поиск, переключение светлой и темной тем",
+      "href": "https://github.com/RuslanSharipov63/Country",
+      "hrefprod": "https://country-beta.vercel.app/",
+      "stars": "1,999"
+    },
+    {
+      "name": "Панель учета",
+      "framework": "React, Redux Toolkit, PHP, MySQL",
+      "description": "Панель учета продукции'. Реализованы: адаптивная верстка, добавление, удаление и изменение различной номенклатуры товаров, пагинация",
+      "href": "https://github.com/RuslanSharipov63/adminpanel",
+      "hrefprod": "https://adminpanel-self-ten.vercel.app/",
+      "stars": "1,999"
+    }
+  ]
 }

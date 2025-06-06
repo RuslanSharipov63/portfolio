@@ -20,7 +20,7 @@ export default async function Home() {
           <About data={data.general}></About>
           <Experiences data={data.experiences}></Experiences>
           <Education data={data.education}></Education>
-          <Volunteering data={data.volunteering}></Volunteering>
+         {/*  <Volunteering data={data.volunteering}></Volunteering> */}
           <Projects data={data.projects}></Projects>
           <Credits data={data.general}></Credits>
         </div>

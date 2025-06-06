@@ -9,12 +9,11 @@ const Education = (props) => {
                 return <EducationItem
                     key={`${object.subject}+${object.startDate}`}  
                     subject={object.subject}
-                    degree={object.degree}
                     university={object.university}
                     href={object.href}
                     startDate={object.startDate} 
                     endDate={object.endDate ? object.endDate : ''} 
-                    description={object.description}
+                    certificate={object.certificate}
                 />
             })}
         </div>
